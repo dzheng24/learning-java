@@ -7,16 +7,16 @@ class PoolPuzzleOne {
       if (x < 1) {
         System.out.print(" ");
       }
-      System.out.print("noise");
+      System.out.print("n");
       if (x > 1) {
-      System.out.print("noys");
+      System.out.print(" oyster");
       x = x + 2;
       }
       if (x == 1) {
-        System.out.print("oise");
+        System.out.print("noys");
       }
-      if (x > 3) {
-        System.out.print(" oyster");
+      if (x < 1) {
+        System.out.print("oise");
       }
       System.out.println("");
       x = x + 1;
