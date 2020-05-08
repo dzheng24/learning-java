@@ -1,3 +1,5 @@
+package src;
+
 import java.util.Scanner;
 
 public class Main {
@@ -7,8 +9,6 @@ public class Main {
         boolean hasPerfectAttendance = true;
         String studentFirstName = "David";
         String studentLastName = "Zheng";
-        char studentFirstInitial = studentFirstName.charAt(0);
-        char studentLastInitial = studentLastName.charAt(0);
 
 
 
